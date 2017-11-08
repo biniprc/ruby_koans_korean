@@ -1,19 +1,19 @@
-= Neo Ruby Koans
+= Neo Ruby Koans (Neo 루비 선문답)
 
-The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
-The goal is to learn the Ruby language, syntax, structure, and some common
-functions and libraries. We also teach you culture by basing the koans on tests.
-Testing is not just something we pay lip service to, but something we
-live.  Testing is essential in your quest to learn and do great things in Ruby.
+The Ruby Koans(선문답)은 Ruby를 배우기 위한 깨달음의 길을 걷게 합니다.
+Ruby 언어, 문법, 구조, 그리고 몇 가지 함수와 라이브러리들을 배우는 것이 목표입니다.
+Koans는 또한 테스팅 기반으로 하는 문화를 가르쳐줍니다.
+테스팅은 우리가 말로만 하는 것이 아닌, 우리 삶입니다.
+테스팅은 루비의 위대한 것들을 배우기 위한 여정에 필수적입니다.
 
-== The Structure
+== 구조
 
-The koans are broken out into areas by file, hashes are covered in +about_hashes.rb+,
-modules are introduced in +about_modules.rb+, <em>etc</em>.  They are presented in
-order in the +path_to_enlightenment.rb+ file.
+Koans는 다양한 영역들이 파일로 구분되어 있습니다.
+해쉬(hash)는 +about_hashes.rb+ 에서, 모듈(module) +about_modules.rb+, <em>etc</em>.
+그것들은 순서대로 +path_to_enlightenment.rb+ 파일에 나열되어 있습니다.
 
-Each koan builds up your knowledge of Ruby and builds upon itself. It will stop at
-the first place you need to correct.
+각각의 koan은 루비에 대한 여러분의 지식을 증진 시키고, 그것을 바탕으로 쌓입니다.
+프로그램은 수정이 첫번째 곳에서 멈춥니다.
 
 Some koans simply need to have the correct answer substituted for an incorrect one.
 Some, however, require you to supply your own answer.  If you see the method +__+ (a
@@ -177,6 +177,8 @@ Brian Marick's fantastic guide for beginners Everyday Scripting with Ruby    :: 
 
 = Other stuff
 
+번역            :: 오창희 <chang2@likelion.net>
+번역            :: 강동주 <john@likelion.net>
 Author         :: Jim Weirich <jim@neo.org>
 Author         :: Joe O'Brien <joe@objo.com>
 Issue Tracker  :: http://www.pivotaltracker.com/projects/48111
